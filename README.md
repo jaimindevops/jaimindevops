@@ -2,32 +2,39 @@
 
 ### 👨‍💻 About Me
 
-**Software Developer** with **4+ years of full-stack experience**, specializing in backend engineering, cloud solutions, and data-driven applications.
+**Graduate Systems Science Student** & **Network Engineer** with **6+ years of industry experience** in Routing, Transport Testing, and 5G Operations.
 
-- 🎓 Currently pursuing **Graduate Studies in Data Science**, with hands-on expertise in **AI, Machine Learning, and NLP**.
-- 💡 Passionate about building **scalable systems** and solving real-world problems with technology.
-- 🚀 **Background:** I combine deep expertise in **Telecommunications & Network Engineering** (5G/RAN) with modern **Cloud Native** development.
+- 🎓 Currently pursuing **M.Sc. in System Science and Engineering** at **uOttawa** (GPA 3.8).
+- 💼 **Experience:** Former **Samsung** & **Mavenir** Engineer (RAN Virtualization & Systems).
+- 📡 **Specialization:** 5G, MPLS, BGP, OSPF, and Packet-Level Troubleshooting.
+- 🎯 **Goal:** Seeking an **MPLS Test Engineer Student** role for Summer 2026.
+- 🛠️ **Approach:** I combine deep protocol knowledge (TCP/IP, VLAN, LDP) with modern automation (Python, Bash, Docker).
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Technical Arsenal
 
-| Domain | Technologies |
+| Domain | Skills & Tools |
 | :--- | :--- |
-| **Languages** | Python, SQL, C++, Bash |
-| **Data Science** | Pandas, NumPy, Scikit-Learn, NLP, Matplotlib |
-| **Cloud & DevOps** | Oracle Cloud (OCI), AWS, Docker, Kubernetes, GitHub Actions |
-| **Backend** | REST APIs, Microservices, System Architecture |
-| **Networking** | TCP/IP, 5G/LTE, RAN Virtualization |
+| **Networking Protocols** | TCP/IP, BGP, OSPF, MPLS, LDP, RSVP, IS-IS, SR, VLAN, IGMP |
+| **Cloud & DevOps** | Docker, Kubernetes, OpenShift, Oracle Cloud (OCI), AWS, Git |
+| **Automation & Scripting** | Python, Bash/Shell, YAML, XML, JSON |
+| **Tools & Platforms** | Prometheus, Jira, Wireshark, Cisco IOS, Linux (CentOS/Ubuntu) |
 
 ---
 
 ### 🔭 Featured Projects
 
-- **[Cloud-Watchdog](https://github.com/jaimindevops/Cloud-Watchdog)**: A hybrid-cloud infrastructure monitoring system using OCI, Docker, and GitHub Actions.
-- **Data Science Portfolio**: [Link to another repo if you have one, or remove this line]
+- **[Cloud-Watchdog](https://github.com/jaimindevops/Cloud-Watchdog)**: A hybrid-cloud infrastructure monitoring system.
+  - **Tech:** Python, OCI, GitHub Actions, Docker.
+  - **Function:** Automates network diagnostics (`tracepath`) and alerts via Slack when TCP/SSL services fail.
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimin-sharma-68a88116b/)
+### 💼 Professional Background
+
+- **RAN Virtualization Engineer @ Samsung**: Automated log analysis (Python/Bash) for Verizon's 5G deployment; debugged transport layer packet drops.
+- **RAN System Engineer @ Mavenir**: Integrated CU/DU with AWS; resolved MTU & transport routing issues (Cisco/Arista).
+- **L2 Support Engineer @ Fortinet**: Tier-2 support for enterprise network security & high-availability environments.
+
+---
