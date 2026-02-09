@@ -1,14 +1,33 @@
 ### Hi there, I'm Jaimin! 👋
-I'm a Master's student in **System Science at uOttawa**, bridging the gap between **Network Engineering** and **Modern DevOps**.
 
-- 🔭 I’m currently building: **A Hybrid Cloud Network Watchdog on OCI**
-- 🌱 I’m currently learning: **Go, Kubernetes, and 5G VoNR**
-- 🎹 Fun fact: When I'm not coding, I'm playing the **Piano**.
-- 💼 Goal: Seeking **Summer 2026 Internships** (Network/Pre-Sales Engineering).
+### 👨‍💻 About Me
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**Software Developer** with **4+ years of full-stack experience**, specializing in backend engineering, cloud solutions, and data-driven applications.
+
+- 🎓 Currently pursuing **Graduate Studies in Data Science**, with hands-on expertise in **AI, Machine Learning, and NLP**.
+- 💡 Passionate about building **scalable systems** and solving real-world problems with technology.
+- 🚀 **Background:** I combine deep expertise in **Telecommunications & Network Engineering** (5G/RAN) with modern **Cloud Native** development.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, C++, Bash |
+| **Data Science** | Pandas, NumPy, Scikit-Learn, NLP, Matplotlib |
+| **Cloud & DevOps** | Oracle Cloud (OCI), AWS, Docker, Kubernetes, GitHub Actions |
+| **Backend** | REST APIs, Microservices, System Architecture |
+| **Networking** | TCP/IP, 5G/LTE, RAN Virtualization |
+
+---
+
+### 🔭 Featured Projects
+
+- **[Cloud-Watchdog](https://github.com/jaimindevops/Cloud-Watchdog)**: A hybrid-cloud infrastructure monitoring system using OCI, Docker, and GitHub Actions.
+- **Data Science Portfolio**: [Link to another repo if you have one, or remove this line]
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimin-sharma-68a88116b/)
