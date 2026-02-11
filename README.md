@@ -7,7 +7,7 @@
 - 🎓 Currently pursuing **M.Sc. in System Science and Engineering** at **uOttawa** (GPA 3.8).
 - 💼 **Experience:** Former **Samsung** & **Mavenir** Engineer (RAN Virtualization & Systems).
 - 📡 **Specialization:** 5G, MPLS, BGP, OSPF, and Packet-Level Troubleshooting.
-- 🎯 **Goal:** Seeking an **MPLS Test Engineer Student** role for Summer 2026.
+- 🎯 **Goal:** Seeking an **Intership role in 5G, Cloud & Devops** role for Summer 2026.
 - 🛠️ **Approach:** I combine deep protocol knowledge (TCP/IP, VLAN, LDP) with modern automation (Python, Bash, Docker).
 
 ---
