@@ -20,6 +20,7 @@
 | **Cloud & DevOps** | Docker, Kubernetes, OpenShift, Oracle Cloud (OCI), AWS, Git |
 | **Automation & Scripting** | Python, Bash/Shell, YAML, XML, JSON |
 | **Tools & Platforms** | Prometheus, Jira, Wireshark, Cisco IOS, Linux (CentOS/Ubuntu) |
+| **Machine Learning & Data Science** | Data Preprocessing, Supervised & Unsupervised Learning, Model Evaluation, Loss Functions |
 
 ---
 
